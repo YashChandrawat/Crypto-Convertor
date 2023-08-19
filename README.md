@@ -7,3 +7,5 @@ Features
 2. Convert from a cryptocurrency to a fiat currency (e.g., USD, EUR, etc.).
 3. Real-time exchange rates fetched from the CoinGecko API.
 4. User-friendly command-line interface.
+
+   API Used -> https://api.coingecko.com/api/v3/exchange_rates
