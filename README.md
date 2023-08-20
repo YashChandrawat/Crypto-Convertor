@@ -8,4 +8,4 @@ Features
 3. Real-time exchange rates fetched from the CoinGecko API.
 4. User-friendly command-line interface.
 
-   API Used -> https://api.coingecko.com/api/v3/exchange_rates
+API Used -> https://api.coingecko.com/api/v3/exchange_rates
